@@ -8,7 +8,7 @@
 
 
 > **BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion**<br>
-> [Gwanghyun Kim](https://gwang-kim.github.io/) $^{1,* }$, [Hayeon Kim](https://github.com/janeyeon)$^{1,* }$, [Hoigi Seo](https://github.com/seohoiki3215)$^{1,* }$, [Dongun Kang](https://github.com/qkrtnskfk23)$^{1,* }$, [Se Young Chun](https://icl.snu.ac.kr/pi)$^{1,2,\dagger}$ <br>
+> [Gwanghyun Kim](https://gwang-kim.github.io/)$^{1,*}$, [Hayeon Kim](https://github.com/janeyeon)$^{1,* }$, [Hoigi Seo](https://github.com/seohoiki3215)$^{1,*}$, [Dongun Kang](https://github.com/qkrtnskfk23)$^{1,* }$, [Se Young Chun](https://icl.snu.ac.kr/pi)$^{1,2,\dagger}$ <br>
 > $^{* }$ These authors contributed equally to this work., $^{\dagger}$ Corresponding author.
 > 
 > 
